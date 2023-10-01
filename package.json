@@ -29,7 +29,7 @@
   "dependencies": {
     "ember-cli-babel": "^7.7.3",
     "ember-cli-htmlbars": "^3.0.1",
-    "ember-in-viewport": "~3.0.0"
+    "ember-in-viewport": "3.8.0"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
